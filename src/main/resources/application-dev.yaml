@@ -1,0 +1,8 @@
+feign:
+  client:
+    config:
+      order:
+        url: ${ORDER_URL:http://localhost:8081}
+
+server:
+  port: 8084
