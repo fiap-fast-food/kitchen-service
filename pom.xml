@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.guilherme</groupId>
 	<artifactId>fiapfood</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>kitchen-service</name>
 	<description>Responsável por operacionalizar o processo de produção do Pedido, acompanhando a fila de pedidos, atualização de status de cada passo do pedido.</description>
 
